@@ -1,0 +1,18 @@
+body {
+    background-color: rgb(21, 129, 38);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+#container {
+    background-color: rgb(135, 12, 12);
+    height: 400px;
+    width: 40%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-evenly;
+    border-radius: 10px;
+}
